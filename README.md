@@ -1,5 +1,7 @@
 # macOS-app-versions-log
 
+This table provides a summary of the version numbers for various built-in applications across different versions of macOS. Each row corresponds to a specific macOS version, while the columns list the applications and their respective version numbers in that macOS release.
+
 | macOS  | Notes       | Calendar              | Reminders      | Contacts          | Photos            | Weather      | Dictionary     | Voice Notes    | Stock          | Clock      | Calculator   | Safari                                          | Finder | Mail                         | Anteprima          | QuickTime        | Find Me          |
 |--------|-------------|-----------------------|----------------|-------------------|-------------------|--------------|----------------|----------------|----------------|------------|---------------|------------------------------------------------|--------|------------------------------|--------------------|------------------|------------------|
 | 14.4.1 | 4.11 (2812) | 14.0 (2964.4.2)       | 7.0 (2941)     | 14.0 (2571.2)     | 9.0 (646.2.101)   | 4.2.2 (563)  | 2.3.0 (294)    | 2.4 (1158)     | 6.2.2 (1335)   | 1.1 (62)   | 10.16 (223)  | 17.4.1 (19618.1.15.11.14)                      | 14.4   | 16.0 (3774.500.171.1.1)     | 11.0 (1056.5.1)    | 10.5 (1188.3)    |                  |
