@@ -1,0 +1,1 @@
+# macOS-app-versions-log
